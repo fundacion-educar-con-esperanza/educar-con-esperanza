@@ -282,6 +282,7 @@ header .container-menu-oculto {
 
 .que-hacemos .que-hacemos-image img {
     width: 100%;
+    border-radius: 16px;
 }
 
 @media (max-width: 775px){
